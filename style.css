@@ -1,0 +1,95 @@
+body{
+
+}
+.box{
+    height: 752px;
+    width: 1415px;
+    background-color: #716767;
+}
+.box1{
+    height: 175px;
+    width: 1019px;
+    background-color: white;
+    margin-left: 201px;
+    margin-top: 120px;
+    float: left;
+    border-radius: 16px;
+    position: fixed;
+}
+.image{
+    position: fixed;
+}
+.image h2{
+    font-size: 178%;
+    margin-left: 176px;
+    margin-top: -154px;
+
+}
+.image h3{
+    font-size: 187%;
+    margin-top: -22px;
+    margin-left: 163px;
+}
+.image h4{
+    font-size: 32px;
+    margin-top: -33px;
+    margin-left: 257px;
+}
+.image img{
+    height: 42px;
+    width: 291px;
+    margin-left: 178px;
+    margin-top: 137px;
+}
+.image1 img{
+    height: 173px;
+    width: 211px;
+    margin-left: 808px;
+    border-radius: 11px;
+    margin-top: 0px;
+    position: fixed;
+
+}
+.box2{
+    background-color: white;
+    height: 241px;
+    width: 441px;
+    float: left;
+    margin-top: 323px;
+    margin-left: 204px;
+}
+
+
+.box2 iframe{
+    height: 249px;
+    width: 443px;
+    position: fixed;
+
+}
+.box3{
+    height: 346px;
+    width: 564px;
+    background-color: white;
+    float: left;
+    margin-top: 321px;
+    margin-left: 656px;
+    position: fixed;
+}
+.box3 h1{
+    font-size: 191%;
+    font-style: italic;
+    margin-left: 195px;
+    position: fixed;
+    margin-top: 5px;
+}
+.box2 h2{
+    font-size: 185%;
+    margin-left: 128px;
+    margin-top: 0px;
+    font-style: italic;
+}
+.box3 p{
+    margin-top: 62px;
+    margin-left: 4px;
+    font-size: 119%;
+}
